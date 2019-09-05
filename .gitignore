@@ -1,0 +1,12 @@
+*.o
+*.d
+*.map
+*.nmap
+#project/tuya_iot/lib
+project/tuya_user/*/output
+*.asm
+*.axf
+./Debug
+.ver
+tools/generate/config.json
+./bk7231_freertos_fullcode.*
